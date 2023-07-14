@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9495ebea-07eb-4724-a36b-9095aa424e65" name="변경" comment="230626 알고리즘">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/문자열 붙여서 출력하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/문자열 붙여서 출력하기.py" afterDir="false" />
-    </list>
+    <list default="true" id="9495ebea-07eb-4724-a36b-9095aa424e65" name="변경" comment="230626 알고리즘" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +111,7 @@
       <workItem from="1687693356164" duration="1752000" />
       <workItem from="1687738134237" duration="22000" />
       <workItem from="1687802354574" duration="64000" />
+      <workItem from="1687802474708" duration="62000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1685427528387</created>
@@ -178,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687695179929</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="230626 알고리즘">
+      <created>1687802506217</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687802506217</updated>
+    </task>
+    <task id="LOCAL-00011" summary="230626 알고리즘">
+      <created>1687802532255</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687802532255</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +217,7 @@
     <MESSAGE value="230618 알고리즘 맛보기" />
     <MESSAGE value="230620 알고리즘 맛보기" />
     <MESSAGE value="230624 알고리즘 맛보기" />
-    <option name="LAST_COMMIT_MESSAGE" value="230624 알고리즘 맛보기" />
+    <MESSAGE value="230626 알고리즘" />
+    <option name="LAST_COMMIT_MESSAGE" value="230626 알고리즘" />
   </component>
 </project>
